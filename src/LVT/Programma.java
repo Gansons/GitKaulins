@@ -7,6 +7,7 @@ public class Programma {
 
 
 	public static void main(String[] args) {
+		System.out.println("Esi sveicināgs manā metamā kauliņa programmā!");
 		int skaitlis, reizes;
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Cik reizes mest kauliņu?");
